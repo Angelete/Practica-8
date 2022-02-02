@@ -1,0 +1,14 @@
+table.mitabla{
+    border: red 1px solid;
+}
+table.mitabla2{
+    border: red 1px solid;
+}
+table.mitabla3{
+    width: 50%;
+    text-align: center;
+    border: springgreen 1px solid;
+}
+td.verd{
+    border: springgreen 1px solid;
+}
